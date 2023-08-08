@@ -1,0 +1,17 @@
+package com.kh.common;
+
+public class JDBCTemplate {
+	
+	/*
+	 * JDBC 과정중 반복적으로 쓰이는 구문들을 각가의 메소드로 정의해둘 곳
+	 * "재사용"목적으로 공통 템플릿 작업을 진행
+	 * 
+	 * 이 클래스에서의 모든 메소들은 다 static메소드로 만들 것
+	 * 
+	 * 
+	 * 
+	*/
+	
+	
+
+}
